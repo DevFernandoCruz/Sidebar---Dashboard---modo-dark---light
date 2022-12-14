@@ -4,9 +4,9 @@
 
 ## 📕 Projeto / Project
 
-<p>Sidebar  de um Dashboard com template e foto circular</p>
+<p>Sidebar  de um Dashboard modo escuro / claro </p>
 
-<p>Sidebar of a Dashboard with template and circular photo</p>
+<p>Sidebar of a Dashboard mode dark / light</p>
 
 <br></br>
 ## 🛠️ Ferramentas / Tools
@@ -49,7 +49,7 @@ _________________
 </p>
 
 <p align="center">
-    <img width="600" heigtht="600" src="https://github.com/DevFernandoCruz/Sidebar---Dashboard---modo-dark---light/blob/main/Sidebar%20-%20Dashboard%20-%20modo%20dark%20-%20light/Readme/mostruario4.png"/>  
+    <img width="600" heigtht="600" src="https://github.com/DevFernandoCruz/Sidebar---Dashboard---modo-dark---light/blob/main/Sidebar%20-%20Dashboard%20-%20modo%20dark%20-%20light/Readme/mostruario3.png"/>  
 </p>
 
 
